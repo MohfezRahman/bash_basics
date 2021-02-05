@@ -1,5 +1,5 @@
 #!/bin/sh
-
+echo "This program will add three number and show the sum of three numbers."
 echo "Enter your first number"
 read first
 echo "Enter your second number"
