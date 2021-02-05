@@ -9,7 +9,7 @@ read third
 
 sum=$(( first+second+third ))
 
-echo "The sum is $sum"
+echo "The sum  is $sum. Thank you for your time."
 
 # exercise: ask the user for the width and height and present total
 # number of pixels
